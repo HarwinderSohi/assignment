@@ -1,0 +1,16 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "Week 4 Honors Content Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "tether": "^2.0.0"
+  }
+}
